@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Test Post Please Ignore
-date: 2020-10-24 13:32:20 +0300
-description: I don't know what this is.
-description (optional)
-img: i-rest.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-tags: [Nothing, Hmmmmm]
+title: Testing Post
+date: 2020-10-24 00:00:00 +0300
+description: Maybe this test pst will work # Add post description (optional)
+img: js-1.png # Add image post (optional)
+tags: [Js, Conference] # add tag
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec mauris et elit feugiat tristique at in nisl. Sed vitae commodo libero. Mauris luctus orci in dui dictum, viverra finibus libero euismod. Pellentesque quis nunc tincidunt magna laoreet tempus. Maecenas vel enim nec urna eleifend bibendum. Aenean malesuada mi sit amet tincidunt ultricies. Vivamus maximus non mauris quis imperdiet. Etiam dolor velit, suscipit in varius molestie, tincidunt ut lacus. Duis accumsan nulla ut arcu interdum ultricies. Ut a dolor et odio blandit interdum eget blandit nisi.
