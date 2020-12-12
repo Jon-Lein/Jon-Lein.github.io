@@ -35,3 +35,7 @@ paginate: 8
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+sass:
+  sass_dir: _scss
+  style: compressed
