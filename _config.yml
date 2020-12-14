@@ -1,4 +1,4 @@
-title: ---Hello, world---
+title: Jon Lein
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -6,12 +6,12 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "127.0.0.1" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+site-twitter: lein_herbie #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Jon Lein # add your name
-author-img:  # add your photo
-about-author: Jon # add description
+author-img: herb.jpg # add your photo
+about-author: Lorem ipsum dolor sit amet, ex sed appareat appetere expetendis, at harum iracundia dissentiet est. Est ei consulatu tincidunt, ne debet nonumy suavitate his, sea ferri nostrum persequeris ea. Vim graeci oportere ei. Eu nibh nusquam rationibus pro, mel consul appellantur ea. Probo discere usu ut. # add description
 social-twitter: lein_herbie # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: Jon-Lein # add your Github handle
