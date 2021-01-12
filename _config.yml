@@ -11,7 +11,7 @@ site-twitter: lein_herbie #if your site has a twitter account, enter it here
 # Author Settings
 author: Jon Lein # add your name
 author-img: herb.jpg # add your photo
-about-author: Lorem ipsum dolor sit amet, ex sed appareat appetere expetendis, at harum iracundia dissentiet est. Est ei consulatu tincidunt, ne debet nonumy suavitate his, sea ferri nostrum persequeris ea. Vim graeci oportere ei. Eu nibh nusquam rationibus pro, mel consul appellantur ea. Probo discere usu ut. # add description
+about-author: Masters student at Dakota State University studying computer science and cyber operations. Currently focusing on software security, malware analysis, and software exploits.  # add description
 social-twitter: lein_herbie # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: Jon-Lein # add your Github handle
@@ -19,7 +19,7 @@ social-linkedin: # add your Linkedin handle
 social-email: jonathan.lein@trojans.dsu.edu # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier:  # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
