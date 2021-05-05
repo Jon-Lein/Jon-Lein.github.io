@@ -53,6 +53,8 @@
       border-radius: 100%;
       margin-bottom: 10px;
     }
+    border-right: none;
+
 }
 
 
@@ -72,6 +74,7 @@
   flex-wrap: wrap;
   align-items: stretch;
   background-color: $dark-gray;
+  border-top: solid $cyan 2px;
 }
 
 }
